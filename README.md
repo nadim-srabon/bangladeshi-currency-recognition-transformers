@@ -3,7 +3,7 @@
 Deep-learning system that classifies all 9 Bangladeshi Taka banknote denominations from photos using Vision Transformers — benchmarking ViT-B/16, Swin-Tiny, and DeiT-Small end-to-end.
 
 [![App](https://img.shields.io/badge/🤗%20Spaces-Live%20Demo-blue)](https://huggingface.co/spaces/srabon12/BDCURR)
-[![Model](https://img.shields.io/badge/🤗%20Hub-Model%20Weights-yellow)](https://huggingface.co/srabon12/bangladeshi-currency-recognition)
+[![Model](https://img.shields.io/badge/🤗%20Hub-Model%20Weights-yellow)](https://www.kaggle.com/code/nadimsrabon6/bangladeshi-currency-recognition-transformers)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776ab?logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org)
 [![timm](https://img.shields.io/badge/timm-0.9+-00a86b)](https://github.com/huggingface/pytorch-image-models)
